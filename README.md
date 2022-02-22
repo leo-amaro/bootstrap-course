@@ -1,1 +1,1 @@
-# bootstrap-course
+# Bootstrap Course - Coursera
